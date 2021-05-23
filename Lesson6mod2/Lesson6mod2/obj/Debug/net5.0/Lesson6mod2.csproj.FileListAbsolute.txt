@@ -1,0 +1,16 @@
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\bin\Debug\net5.0\Lesson6mod2.exe
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\bin\Debug\net5.0\Lesson6mod2.deps.json
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\bin\Debug\net5.0\Lesson6mod2.runtimeconfig.json
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\bin\Debug\net5.0\Lesson6mod2.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\bin\Debug\net5.0\Lesson6mod2.dll
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\bin\Debug\net5.0\ref\Lesson6mod2.dll
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\bin\Debug\net5.0\Lesson6mod2.pdb
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\Lesson6mod2.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\Lesson6mod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\Lesson6mod2.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\Lesson6mod2.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\Lesson6mod2.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\Lesson6mod2.dll
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\ref\Lesson6mod2.dll
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\Lesson6mod2.pdb
+C:\Users\Дима\source\repos\Lesson6mod2\Lesson6mod2\obj\Debug\net5.0\Lesson6mod2.genruntimeconfig.cache
