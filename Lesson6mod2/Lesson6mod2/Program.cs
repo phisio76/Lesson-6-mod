@@ -12,7 +12,7 @@ namespace Lesson6mod2
         static void Main()
         {
 
-            Console.WriteLine("Таблица функции a*x^2:"); // По взрослому не выходит,
+            Console.WriteLine("Таблица функции a*x^2:"); // По взрослому не выходит.,
             Table1.Table(delegate (double a, double x) { return a * x * 2; }, -2.5, -2, 2); // поскольку в Table( ( x ⇒  x * x; }, -2, 2); пишет недопустимый знак: ⇒
 
             Console.WriteLine("Таблица функции, альтернативный вариант a*x^2:");
